@@ -4,8 +4,6 @@ from sys import stdout
 '''
 Knapsack Problem implementation
 
-Created on Dec 6, 2010
-@author: rohanbk
 '''
 capacity = 5
 num_of_items = 6
